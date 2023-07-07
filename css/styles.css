@@ -1,6 +1,8 @@
+*{
+  background-color: black;
+}
 body {
   color: white;
-  background-color: black;
   position: relative;
   width: 700px;
   margin-left: 100px;
